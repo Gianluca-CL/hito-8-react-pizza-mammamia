@@ -14,12 +14,6 @@ Este repo contiene el desarrollo del Hito 8 de Reacto de DESAFIO LATAM, donde se
    npm run dev
    ```
 
-### Backend
-1. Ir a la carpeta `backend`
-2. Ejecutar en la terminal:
-   ```bash
-   npm install
-   npm start
    ```
  Frontend (React, vía Vite)
 http://localhost:5173
