@@ -1,10 +1,8 @@
-export default function Footer({footerTextA, footerTextB, footerLink}) {
+
+export default function Footer() {
   return (
     <footer className="footer">
-      <p>{footerTextA}</p>
-      <a href="#">{footerLink}
-      </a>
-      <p>{footerTextB}</p>
+      <p>2025 © Foradori's Pizza - Todos los derechos reservados</p>
     </footer>
   );
 }
